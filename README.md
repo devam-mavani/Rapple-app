@@ -46,7 +46,7 @@ that builds a debug APK in the cloud every time you push to `main`.
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/reminder-app.git
+   git remote add origin https://github.com/<your_ username>/reminder-app.git
    git push -u origin main
    ```
 3. On GitHub, open the **Actions** tab of your repo — a "Build Debug APK" run
